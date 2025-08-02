@@ -1,9 +1,0 @@
-[alias]
-     st=status
-
-
-
-
-
-
-
